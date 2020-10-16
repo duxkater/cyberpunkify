@@ -1,5 +1,5 @@
 step 1 : récupérer la carte
-- Télécharger le zip et ouvrir le index.html.
+- Télécharger le zip (bouton "CODE" vert) et ouvrir le index.html.
 - Appuyer sur F11 pour passer en plein écran.
 - Naviguer sur l'endroit voulu avec le bon niveau de zoom et faire un screenshot. (touche windows + impr écran)
 
